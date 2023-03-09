@@ -1,10 +1,10 @@
-# Data Analyst Nanodegree Udacity 2022
+# Udacity Data Analyst Nanodegree 2022
 
 ## Jessica Sarah Stow
 
-Welcome!
+ 👋 Welcome! 
 
-This repository contains files for the projects that fulfil the requirements of [Udacity's Data Analyst Nanodegree Programme](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
+📍 This repository contains files for the projects that fulfil the requirements of [Udacity's Data Analyst Nanodegree Programme](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
 ## Project 1:
 
