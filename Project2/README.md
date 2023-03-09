@@ -11,7 +11,7 @@ The dataset that we wrangled (and analyzed and visualised) was the tweet archive
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for us to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017.
 
 This project was completed using Jupyter Notebook. 
-The following packages (libraries) were also installed and used for this project: pandas, NumPy, requests, tweepy and json. 
+The following packages (libraries) were also installed and used for this project: pandas, NumPy, requests, tweepy, matplotlib and json. 
 
 
 ### Files in this repository
