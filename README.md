@@ -8,7 +8,7 @@
 
 ## Project 1: No Show Appointments
 In this project, we went through the data analysis process to see how everything fits together. The aim of this project was to determine what factors are important for us to know in order for us to predict if a patient will show up to their scheduled appointment.  
-- Project: [No Show Appointments]()
+- Project: [No Show Appointments](https://github.com/jessicastow/Udacity-Data-Analyst-Nanodegree-2022/tree/main/Project1)
 
 ### Link
 
