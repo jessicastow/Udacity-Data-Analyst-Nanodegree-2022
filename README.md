@@ -6,7 +6,9 @@
 
 📍 This repository contains files for the projects that fulfil the requirements of [Udacity's Data Analyst Nanodegree Programme](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
-## Project 1:
+## Project 1: No Show Appointments
+In this project, we went through the data analysis process to see how everything fits together. The aim of this project was to determine what factors are important for us to know in order for us to predict if a patient will show up to their scheduled appointment.  
+- Project: [No Show Appointments]()
 
 ### Link
 
