@@ -11,5 +11,5 @@ The data set was taken from [Kaggle](https://www.kaggle.com/datasets/joniarroba/
 
 ### Files in this repository
 
-- [Project1-NoShowAppointments.ipynb](https://github.com/jessicastow/Udacity-Data-Analyst-Nanodegree-2022/blob/main/Project1/Project1-NoShowAppointments.ipynb)
-- [noshowappoinments-kagglev2-may-2016.csv](https://github.com/jessicastow/Udacity-Data-Analyst-Nanodegree-2022/blob/main/Project1/noshowappointments-kagglev2-may-2016.csv)
+The Jupyter notebook for the project can be viewed in the [Project1-NoShowAppointments.ipynb](https://github.com/jessicastow/Udacity-Data-Analyst-Nanodegree-2022/blob/main/Project1/Project1-NoShowAppointments.ipynb) file. 
+The data for this project is contained in the [noshowappoinments-kagglev2-may-2016.csv](https://github.com/jessicastow/Udacity-Data-Analyst-Nanodegree-2022/blob/main/Project1/noshowappointments-kagglev2-may-2016.csv) file. 
