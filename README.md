@@ -17,6 +17,6 @@ This repository contains files for the projects that fulfil the requirements of 
 
 ### Image
 
-![alt text]([https://confirm.udacity.com/DMKLQAVF](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/c205ceaf-a222-4e5b-8b9c-12781fddb8bc.svg))
+![alt text](https://graduation.udacity.com/api/graduation/certificate/DMKLQAVF/download)
 
 ## Project 3:
